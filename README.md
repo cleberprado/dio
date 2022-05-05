@@ -1,2 +1,2 @@
-## DIO - Desafios e Projetos da plataforma
-# Sejam bem vindos!
+# DIO - Desafios e Projetos da plataforma
+## Sejam bem vindos!
